@@ -1,5 +1,6 @@
-# This explain how to create the nom installation
+# This explain how to create the npm installation
 
+## Some usefull commands
 
 * Use this to update your npm current installation:
 ```
@@ -11,7 +12,7 @@ npm update -g
 npm update -g PACKAGE
 ```
 
-* Init the current project
+## Init the current project
 
 ```
 npm init 

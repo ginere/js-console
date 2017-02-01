@@ -1,7 +1,10 @@
 # js-console
 ------------
 
-THis is a sample project using:
+This projects deals with tables and forms&validations.
+
+
+This is a sample project using:
 
 * jquery
 * bootstrap
@@ -15,6 +18,8 @@ THis is a sample project using:
  * Gulp
  * browserify
  * jshint 
+ * browserify-shim
+
 
 ## Diretories
 * /docs: This contain some files with docs.

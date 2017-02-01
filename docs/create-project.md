@@ -4,12 +4,12 @@
 
 Create a new project from command line
 
-1/ Create the github repository: scaffolding-gulp-jquery-bootstrap-datatables
+1/ Create the github repository: js-console
 
 2/ Push local content
 
 ```
-echo "# scaffolding-gulp-jquery-bootstrap-mocha" >> README.md
+echo "# js-console" >> README.md
 git init
 git add readme.md
 git commit -m "first commit"
