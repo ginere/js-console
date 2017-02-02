@@ -17,7 +17,7 @@ npm update -g PACKAGE
 ```
 npm init 
 ```
-* Update the /package.json
+* This create/update the /package.json
 
 
 ## Add the developpement dependencies
@@ -59,11 +59,11 @@ Also we can modify the package.json file and
 npm i
 ```
 
-https://github.com/RyanZim/EJS-Lint
-npm install ejs-lint
-
-http://blog.berniesumption.com/software/on-abandoning-gulp/
-https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/
+# https://github.com/RyanZim/EJS-Lint
+# npm install ejs-lint
+#
+#http://blog.berniesumption.com/software/on-abandoning-gulp/
+#https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/
 
 
 Configure the modules:
@@ -72,7 +72,8 @@ Configure the modules:
 
 ## Add the project dependencies
 
-We can use bower and browserify-shim the mamtain this dependencies externalized, but we prefere to have everithing into a js file.
+We can use bower and browserify-shim to mamtain this dependencies externalized, or have everithing into a js file.
+Finaly we chose to have the dependencies externalized into a dist/vendor folder
 
 npm install --save bootstrap
 npm install --save font-awesome

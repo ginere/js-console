@@ -1,10 +1,10 @@
 # js-console
 ------------
 
-This projects deals with tables and forms&validations.
+This is a sample projects that deals with tables and forms&validations.
 
 
-This is a sample project using:
+This project use:
 
 * jquery
 * bootstrap
