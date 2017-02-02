@@ -1,0 +1,60 @@
+{
+  "name": "js-console",
+  "version": "0.0.0",
+  "description": "This is a sample projects that deals with tables and forms&validations.",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ginere/js-console.git"
+  },
+  "keywords": [
+    "js",
+    "scafilding"
+  ],
+  "author": "ginenre.eu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ginere/js-console/issues"
+  },
+  "homepage": "https://github.com/ginere/js-console#readme",
+  "devDependencies": {
+    "brfs": "^1.4.3",
+    "browser-sync": "^2.18.7",
+    "browserify-shim": "^3.8.13",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-ejs": "^2.3.0",
+    "gulp-if": "^2.0.2",
+    "gulp-jshint": "^2.0.4",
+    "gulp-less": "^3.3.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.4.0",
+    "gulp-uglify": "^2.0.1",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.4",
+    "less-plugin-autoprefix": "^1.5.1",
+    "proxy-middleware": "^0.15.0",
+    "pump": "^1.0.2",
+    "run-sequence": "^1.2.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.9.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "htmlclean": "^2.7.10",
+    "jquery": "^3.1.1",
+    "normalize.css": "^5.0.0",
+    "q": "^1.4.1"
+  }
+}
