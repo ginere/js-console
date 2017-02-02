@@ -35,5 +35,3 @@ This project use:
   * [Create a Github project](/docs/create-project.md)
   * [Create a npm project](/docs/npm-instalation.md)
   * [NEXT: Gulp tasks](/docs/gulp.md)
-
-
